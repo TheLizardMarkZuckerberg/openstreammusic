@@ -68,7 +68,7 @@ nav {
   align-items: center;
   height: 80px;
   padding: 0 20px;
-  background: linear-gradient(238deg, #fd8800, #fd008f, #9700fd, #003dfd, #05c7e6, #4bd58d);
+  background: linear-gradient(238deg, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0FF);
   background-size: 1200% 1200%;
   -webkit-animation: rainbow 30s ease infinite;
   animation: rainbow 30s ease infinite;

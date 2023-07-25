@@ -193,7 +193,7 @@ function title() {
 }
 
 // fetch all songs
-fetch("https://raw.githubusercontent.com/openstreamorg/openstreammusic-data/main/songs.json")
+fetch("https://raw.githubusercontent.com/TheLizardMarkZuckerberg/openstreammusic-data/main/songs.json")
   .then((response) => response.json())
   .then((data) => {
     allSongs = data.songs;

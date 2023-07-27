@@ -70,8 +70,8 @@ nav {
   padding: 0 20px;
   background: linear-gradient(238deg, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0cb, #ffc0FF);
   background-size: 1200% 1200%;
-  -webkit-animation: rainbow 30s ease infinite;
-  animation: rainbow 30s ease infinite;
+  -webkit-animation: rainbow 10s ease infinite;
+  animation: rainbow 10s ease infinite;
   position: fixed;
   top: 0;
   left: 0;
@@ -170,9 +170,9 @@ nav {
 
 #play-button,
 #pause-button {
-  background-color: transparent;
+  background-color: ff007f;
   border: none;
-  font-size: 24px;
+  font-size: 20px;
   cursor: pointer;
   margin-right: 10px;
 }
@@ -183,13 +183,13 @@ nav {
 
 #song-name {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 16px;
   z-index: 1000000;
   padding-right: 15px;
 }
 
 #song-artist {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 #songDiv {

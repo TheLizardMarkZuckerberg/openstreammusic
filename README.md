@@ -1,4 +1,4 @@
-# OpenStream Music GACHA
+# OpenStream Music better
 
 OpenStream Music is a free streaming service designed to provide a seamless music listening experience without any ads, accounts, or paid plans. It aims to bring music lovers together by offering a wide range of songs from various genres, all available at your fingertips.
 
@@ -22,10 +22,7 @@ OpenStream Music is designed to run on the following operating systems:
 
 | Operating System | Supported Versions       |
 |------------------|--------------------------|
-| Windows          | 7, 8, 10, 11             |
-| Linux            | AppImage, DEB, RPM       |
-| Android          | Not available (No mobile app currently) |
-| iOS              | Not available (No mobile app currently) |
+| computer         |1-1,000,000               |
 
 
 Please note that OpenStream Music does not support macOS at this time.
